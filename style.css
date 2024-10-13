@@ -1,0 +1,19 @@
+.box {
+    background-color: blue;
+    padding: 10px;
+  }
+  
+  p {
+    color: yellow;
+    margin: 0;
+    padding: 15px;
+    color:white;
+  }
+  .innerbox {
+    background-color: red;
+    height:50px;
+    
+    }
+.bigbox{
+    border:20px solid blueviolet;
+}
